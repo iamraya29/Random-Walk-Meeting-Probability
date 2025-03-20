@@ -39,3 +39,6 @@ After running the simulation, the program outputs:
 3. Execute the script to visualize and compute meeting probabilities.
 
 ## Example Output
+
+![image](https://github.com/user-attachments/assets/51a5961a-7846-4229-8b59-0a9b8b317e17)
+
